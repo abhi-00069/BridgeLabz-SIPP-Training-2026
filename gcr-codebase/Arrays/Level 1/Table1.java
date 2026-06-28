@@ -6,7 +6,6 @@ public class Table1 {
 
         System.out.print("Enter number: ");
         int num = sc.nextInt();
-
         int[] table = new int[10];
 
         for (int i = 1; i <= 10; i++) {
