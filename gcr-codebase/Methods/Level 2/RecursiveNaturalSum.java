@@ -6,7 +6,6 @@ public class RecursiveNaturalSum {
     {
         if(n==1)
             return 1;
-
         return n+rec(n-1);
     }
 
