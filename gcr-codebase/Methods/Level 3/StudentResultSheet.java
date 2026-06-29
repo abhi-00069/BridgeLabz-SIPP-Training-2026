@@ -11,7 +11,6 @@ public class StudentResultSheet {
                 arr[i][j]=(int)(Math.random()*90)+10;
             }
         }
-
         return arr;
     }
 
